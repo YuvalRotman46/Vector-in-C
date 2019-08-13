@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Vector_Task.dir/main.c.o CMakeFiles/Vector_Task.dir/Node.c.o CMakeFiles/Vector_Task.dir/Vector.c.o  -o Vector_Task 

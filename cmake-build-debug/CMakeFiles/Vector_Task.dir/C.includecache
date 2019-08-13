@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuval/CLionProjects/Vector-in-C/Node.c
+Node.h
+/home/yuval/CLionProjects/Vector-in-C/Node.h
+
+/home/yuval/CLionProjects/Vector-in-C/Node.h
+stdlib.h
+-
+
+/home/yuval/CLionProjects/Vector-in-C/Vector.c
+stdio.h
+-
+Node.h
+/home/yuval/CLionProjects/Vector-in-C/Node.h
+Vector.h
+/home/yuval/CLionProjects/Vector-in-C/Vector.h
+myLib.h
+/home/yuval/CLionProjects/Vector-in-C/myLib.h
+
+/home/yuval/CLionProjects/Vector-in-C/Vector.h
+Node.h
+/home/yuval/CLionProjects/Vector-in-C/Node.h
+myLib.h
+/home/yuval/CLionProjects/Vector-in-C/myLib.h
+
+/home/yuval/CLionProjects/Vector-in-C/main.c
+stdio.h
+-
+stdlib.h
+-
+Vector.h
+/home/yuval/CLionProjects/Vector-in-C/Vector.h
+Node.h
+/home/yuval/CLionProjects/Vector-in-C/Node.h
+myLib.h
+/home/yuval/CLionProjects/Vector-in-C/myLib.h
+
+/home/yuval/CLionProjects/Vector-in-C/myLib.h
+

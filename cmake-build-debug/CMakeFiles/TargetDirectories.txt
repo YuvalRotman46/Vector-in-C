@@ -1,0 +1,3 @@
+/home/yuval/CLionProjects/Vector-in-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yuval/CLionProjects/Vector-in-C/cmake-build-debug/CMakeFiles/Vector_Task.dir
+/home/yuval/CLionProjects/Vector-in-C/cmake-build-debug/CMakeFiles/edit_cache.dir
